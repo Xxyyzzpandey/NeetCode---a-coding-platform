@@ -1,5 +1,16 @@
 # 🚀 NeetCode Clone | Full-Stack DSA Platform
 
+---
+
+## 🌐 Live Demo
+Experience the power of the platform here:  
+**[👉 Live Link: neetcode-frontend.vercel.app](https://neetcode-frontend.vercel.app/)**
+
+> **Note:** Since this is hosted on a **free tier**, the backend may take 30-60 seconds to "wake up" on the first request. Please be patient while the server initializes! 🚀
+
+---
+
+
 A comprehensive coding platform built to help developers master Data Structures and Algorithms. This project replicates the core functionality of LeetCode, featuring a curated problem list, an interactive code editor, and persistent progress tracking.
 
 > **Note:** The source code for this project is hosted in a **private repository** to protect proprietary logic and configuration. This repository serves as a public overview, documentation hub, and feature showcase.
